@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<base href="http://k2s.cc/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="language" content="en"/>
+<link href="http://static2.k2s.cc/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/assets/8c784b36/common.css"/>
+ 
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/ext/fancybox/jquery.fancybox.css?v=2.0.31"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/assets/6df913ce/bootstrap/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/assets/6df913ce/css/bootstrap-yii.css"/>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/assets/6df913ce/css/jquery-ui-bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/assets/fcdda3ba/css/auth.css"/>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/614ffa34/jquery.min.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/614ffa34/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/6df913ce/js/jqui-tb-noconflict.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/6df913ce/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/6df913ce/bootbox/bootbox.min.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/6df913ce/notify/notify.min.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/614ffa34/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/f9eb72c8/core.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/f9eb72c8/main.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/ext/fancybox/jquery.fancybox.pack.js?v=2.0.31"></script>
+<title>Keep2Share.cc - View File</title>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/css/main.css?v=2.0.31"/>
+<link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/css/bootstrap.css?v=2.0.31"/>
+<!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="http://static2.k2s.cc/css/ie.css?v=2.0.31" />
+    <![endif]-->
+</head>
+<body>
+<div class="container">
+<div id="middle">
+<div class="navbar navbar-inverse"><div class="navbar-inner"><div class="container"><a href="/" class="brand"><div class="logo-head"><img src="http://static2.k2s.cc/images/design/logo_transparent-blue.png" alt=""/></div></a><ul class="pull-right nav" id="yw4"><li><a class="fancybox.ajax various" href="/login.html">Login</a></li><li><a class="various fancybox.ajax" href="/auth/checkout.html">Register</a></li></ul><ul style="margin-left:200px" id="yw5" class="nav"><li><a href="/premium.html">Premium</a></li><li><a href="http://moneyplatform.biz/site/affiliate.html">Affiliate</a></li></ul>
+<span id="lang-selector">
+<a style="background-image: url(http://static2.k2s.cc/images/flags/gb.png); opacity: 0.5;" href="javascript:void(0)" title="English" class="language lang_one_line" data-lang="en"></a><a style="background-image: url(http://static2.k2s.cc/images/flags/jp.png); opacity: 0.5;" href="javascript:void(0)" title="Japan" class="language lang_one_line" data-lang="ja"></a></span>
+<script>
+    $('a[data-lang=en]')
+        .css({'opacity':'1'});
+</script><p class="navbar-text pull-right"></p></div></div></div>
+ 
+<div id="content">
+<div id="download-file-info">
+<a class="high-speed-download various fancybox.ajax" href="/auth/checkout.html"></a>
+<div class="name FontMyriadPro">
+<img src="http://static2.k2s.cc/images/mime/video/x-matroska.png" alt="video/x-matroska">
+File: <span>015_01_01.mkv</span>
+</div>
+<div class="middle">
+<div class="size FontMyriadPro">Size: 2.7 GB</div>
+<a style="line-height: 32px; margin-top: 15px;" class="fancybox.ajax various btn btn-primary btn-large" id="yw3" href="/auth/checkout.html">DON'T WAIT! DOWNLOAD AT HIGH SPEED! <img class="download-button-icon" src="http://static2.k2s.cc/images/design/down-icon-small.png" alt=""/></a>
+</div>
+<table class="benefits">
+<tr>
+<td>
+<img src="http://static2.k2s.cc/images/design/input-icon.png" alt=""/> Unlimited speed </td>
+<td>
+<img src="http://static2.k2s.cc/images/design/input-icon.png" alt=""/> Unlimited simultaneous downloads </td>
+<td>
+<img src="http://static2.k2s.cc/images/design/input-icon.png" alt=""/> Download accelerators supported </td>
+</tr>
+</table>
+<div class="clear"></div>
+</div>
+<div class="dashed" style="margin-top: 20px;"></div>
+<p class="big-promo-text" style="font-size:29px; font-family: Arial;">
+No more limits!
+<a href="/auth/checkout.html" class="fancybox.ajax various">
+Get a Premium Account NOW
+</a>
+for premium experience!
+</p>
+<div style="text-align: center;">
+<div id="tariffs">
+<div class="tariff" style="">
+<div class="head ">
+<div class="title days3">
+3 DAYS
+</div>
+</div>
+<div class="secure">
+<img src="http://static2.k2s.cc/images/site/tick.png" alt="">
+100% secure!
+</div>
+<div class="separator"></div>
+<div class="price">
+$4.95 </div>
+<div class="separator"></div>
+<div class="middle" style="padding: 15px 30px;">
+<a class="sign-up various fancybox.ajax" href="/auth/checkout.html?buy=1"></a>
+<div style="clear: both;"></div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="tariff" style="margin-left: 7px;">
+<div class="head ">
+<div class="title days30">
+30 DAYS
+</div>
+</div>
+<div class="secure">
+<img src="http://static2.k2s.cc/images/site/tick.png" alt="">
+100% secure!
+</div>
+<div class="separator"></div>
+<div class="price">
+$12.95 </div>
+<div class="separator"></div>
+<div class="middle" style="padding: 15px 30px;">
+<a class="sign-up various fancybox.ajax" href="/auth/checkout.html?buy=2"></a>
+<div style="clear: both;"></div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="tariff" style="margin-left: 7px;">
+<div class="head head-strong">
+<div class="title days90">
+90 DAYS
+<div class="deal deal-green">
+Most popular </div>
+</div>
+</div>
+<div class="secure">
+<img src="http://static2.k2s.cc/images/site/tick.png" alt="">
+100% secure!
+</div>
+<div class="separator"></div>
+<div class="price">
+$32.95 </div>
+<div class="separator"></div>
+<div class="middle" style="padding: 15px 30px;">
+<a class="sign-up various fancybox.ajax" href="/auth/checkout.html?buy=3"></a>
+<div style="clear: both;"></div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="tariff" style="margin-left: 7px;">
+<div class="head ">
+<div class="title days365">
+365 DAYS
+</div>
+</div>
+<div class="secure">
+<img src="http://static2.k2s.cc/images/site/tick.png" alt="">
+100% secure!
+</div>
+<div class="separator"></div>
+<div class="price">
+$89.95 </div>
+<div class="separator"></div>
+<div class="middle" style="padding: 15px 30px;">
+<a class="sign-up various fancybox.ajax" href="/auth/checkout.html?buy=4"></a>
+<div style="clear: both;"></div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="tariff" style="margin-left: 7px;">
+<div class="head ">
+<div class="title days5000">
+Life Time
+<div class="deal deal-red">
+Best Deal </div>
+</div>
+</div>
+<div class="secure">
+<img src="http://static2.k2s.cc/images/site/tick.png" alt="">
+100% secure!
+</div>
+<div class="separator"></div>
+<div class="price">
+$129.95 </div>
+<div class="separator"></div>
+<div class="middle" style="padding: 15px 30px;">
+<a class="sign-up various fancybox.ajax" href="/auth/checkout.html?buy=5"></a>
+<div style="clear: both;"></div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        var maxHeight = 0;
+        var middle = $('#tariffs.tariff.middle');
+        middle.each(function () {
+            if ($(this).height() > maxHeight) {
+                maxHeight = $(this).height();
+            }
+        });
+        middle.css('height', maxHeight);
+    });
+</script>
+<div style="text-align: center">
+<div class="sub-content">
+<div class="clearfix"></div>
+<div id="benefits-head">
+<table>
+<tr>
+<td style="text-align: left; padding-left: 50px;">
+<span style="color: #757373; font-size: 36px; font-weight: bold;" class="FontMyriadPro">
+SELECT YOUR
+</span><br>
+<span style="font-size: 24px; line-height: 30px; color: #000000;" class="FontMyriadPro">
+DOWNLOAD OPTION:
+</span>
+<p>
+Get a Premium Account for the best downloading<br>
+experience. Instant downloads, blazing speed, and<br>
+more
+</p>
+</td>
+<td>
+<img src="http://static2.k2s.cc/images/design/low-speed.png" alt=""/>&nbsp;
+<img src="http://static2.k2s.cc/images/design/low-speed-bar.gif" alt=""/>&nbsp;
+<img src="http://static2.k2s.cc/images/design/high-speed.png" alt=""/><br>
+<p style="margin-top: 10px;">
+Click here for slow download with<br>
+very limited features
+</p>
+<form style="margin:0" action="/file/f5cdeacc1414d" method="post">
+<input type="hidden" name="slow_id" value="3fffb70fb401e">
+<button onClick="ga(&#039;send&#039;, &#039;pageview&#039;, &#039;/virtual/low-speed-download&#039;);" class="btn" id="yw0" type="submit" name="yt0">Low speed download</button> </form>
+</td>
+<td>
+<img src="http://static2.k2s.cc/images/design/low-speed.png" alt=""/>&nbsp;
+<img src="http://static2.k2s.cc/images/design/high-speed-bar.gif" alt=""/>&nbsp;
+<img src="http://static2.k2s.cc/images/design/high-speed.png" alt=""/><br>
+<p style="margin-top: 10px;">
+Click to get a Premium Account<br>
+with 10x speed and more!
+</p>
+<a class="various fancybox.ajax btn btn-primary" id="yw1" href="/auth/checkout.html">High speed download</a> </td>
+</tr>
+</table>
+</div>
+<table id="benefits">
+<tbody>
+<tr class="bordered">
+<td>Your download speed</td>
+<td>
+50.0 KB/s
+</td>
+<td style="color: #9fb143;">
+<span style="">unlimited</span><br>
+<span style="font-size: 12px; color: #378ee2;">
+<a style="color: #378ee2;" class="various fancybox.ajax" href="/auth/checkout.html">Premium</a>
+starting from 24c/day
+</span>
+</td>
+</tr>
+<tr class="bordered">
+<td>Your download time:</td>
+<td>
+15:31:16 </td>
+<td>
+<span style="color: #378ee2;">
+00:09:19 </span>
+</td>
+</tr>
+<tr class="bordered">
+<td>Simultaneous downloads:</td>
+<td>
+<img src="http://static2.k2s.cc/images/design/no.png" alt=""/> </td>
+<td>
+<span style="color: #2681e0;">unlimited</span><br>
+</td>
+</tr>
+<tr class="bordered">
+<td>Download timeout:</td>
+<td>
+<span style="color: red;;">Yes</span><br>
+</td>
+<td>
+<span style="color: #2681e0;">none</span><br>
+</td>
+</tr>
+<tr class="bordered">
+<td>Instant download start</td>
+<td>
+<img src="http://static2.k2s.cc/images/design/no.png" alt=""/> </td>
+<td>
+<img src="http://static2.k2s.cc/images/design/yes.png" alt=""/> </td>
+</tr>
+</tbody>
+</table>
+<div style="margin: 30px 100px 30px 0; text-align: right;">
+<img style="margin:10px 30px 0 0" src="http://static2.k2s.cc/images/design/arrow-right.png" alt=""/> <a style="margin-top:10px; padding:20px; width:400px; font-size: 32px;" class="various fancybox.ajax btn btn-primary btn-large" id="yw2" href="/auth/checkout.html">GET A PREMIUM ACCOUNT</a> </div>
+</div>
+<br>
+</div>
+<div style="text-align: right; color: #888888">
+To report abuse or problem, please use
+<a href="/report.html?file=f5cdeacc1414d" class="various fancybox.ajax" style="color: #888888">
+this form </a>
+</div>
+</div> 
+<div class="clearfix"></div>
+<div style="height: 120px; border-top: 1px dashed #adadad;">
+<div style="font-size: 22px; font-weight: bold; color: #757373; text-align: center; line-height: 30px; padding-top: 20px" class="FontMyriadPro">
+Ready to unlock features?<br>
+<a href="/premium.html">
+Grab a Keep2Share Premium Account today </a><br>
+Check out our awesome deal below! </div>
+</div>
+</div>
+<div id="footer">
+<div style="display: inline-block" class="bottom-menu">
+<ul style="margin-bottom:0" id="yw6" class="nav nav-pills"><li><a href="/page/FAQ.html">FAQ</a></li><li><a href="/page/dmca.html">DMCA</a></li><li><a href="/page/policy.html">Privacy policy</a></li><li><a href="/page/cp_stop.html">Child Abuse Policy</a></li><li><a href="/abuse.html">Report Abuse</a></li><li><a href="/page/terms.html">Terms of Service</a></li><li><a href="/page/imprint.html">Imprint</a></li><li><a href="http://moneyplatform.biz/site/affiliate.html">Affiliate</a></li><li><a href="http://help.k2s.cc">Feedback</a></li></ul>
+</div>
+<div class="muted">
+<small>Copyright © 2012-2015 k2s.cc All rights reserved.</small><br/>
+<div class="logo-footer">
+<img src="http://static2.k2s.cc/images/design/logo_normal_100.png" alt=""/> </div>
+</div>
+</div>
+</div>
+<script>
+        var domain = ['keep2share.cc', 'k2s.cc', 'k2share.cc', 'keep2s.cc', 'keep2share.com'];
+        delete domain[domain.indexOf(window.location.host)];
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-35317817-1', 'auto', {'allowLinker': true});
+        ga('require', 'linker');
+        ga('linker:autoLink', domain);
+        ga('send', 'pageview');
+
+    </script>
+<script type="text/javascript">
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter20685382 = new Ya.Metrika({id:20685382,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        ut:"noindex"});
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/bb899d33/js/swfobject.js"></script>
+<script type="text/javascript" src="http://static2.k2s.cc/assets/bb899d33/js/main.min.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+var data_gc = {"assetsDir":"http:\/\/static2.k2s.cc\/assets\/bb899d33"}
+$(function(){
+                var gc = new GC();
+                gc.sync('pc', gc.uniqueId());
+                setInterval(function(){gc.sync('pc');}, 2500);
+            })
+jQuery(function($) {
+jQuery('[data-toggle=popover]').popover();
+jQuery('body').tooltip({"selector":"[data-toggle=tooltip]"});
+});
+/*]]>*/
+</script>
+</body>
+</html>
